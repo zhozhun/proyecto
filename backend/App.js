@@ -5,7 +5,7 @@ const User = require('/D:/Documents/Kurzen/ANALISIS Y DESARROLLO DE SOFTWARE. (2
 
 // Crear instancias de las clases
 const inventory = new Inventory();
-const user = new User('Nombre de usuario', 'correo@ejemplo.com');
+const user = new Users('Nombre de usuario', 'correo@ejemplo.com');
 
 // Agregar productos al inventario
 const product1 = new Product('Producto 1', 10);
